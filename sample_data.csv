@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,unit_price,date
+1001,Alice,Laptop,1,70000,2023-05-01
+1002,Bob,Mouse,2,500,2023-05-02
+1003,Charlie,Keyboard,1,1500,2023-05-02
+1004,David,Monitor,2,12000,2023-05-03
+1005,Eva,Headset,3,2000,2023-05-04
